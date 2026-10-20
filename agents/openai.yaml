@@ -1,0 +1,3 @@
+interface:
+  display_name: "WPS PPT转图片版"
+  short_description: "用WPS渲染PPT为图片版，保留视频原件并按目标体积压缩"
